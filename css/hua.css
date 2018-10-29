@@ -1,0 +1,86 @@
+*{margin: 0px; padding: 0px;}
+			body{ background: ;}
+			a{ text-decoration: none; shape:circle;}
+			a:link{
+				text-decoration:none;
+				}
+				a:visited{
+				text-decoration:none;
+				}
+				a:hover{
+				text-decoration:none;
+				}
+				a:active{
+				text-decoration:none;
+				}
+			.clearfix{zoom:1}
+       		.clearfix:after{
+			     content:".";        
+			     display:block;        
+			     height:0;        
+			     clear:both;        
+			     visibility:hidden;        
+			}
+			
+			
+			.f{float: left;}
+			.float_r{ float: right;}
+			.t-c{
+			  margin-bottom:10px;
+			  font-family: "Lucida Console";
+			  font-size: 12px;
+			  text-align: center;
+			  color: white;
+			  width: 100%;
+			  height: 30px;
+			  background: rgba(0, 0, 0,8);
+			  line-height: 2.5;
+			}
+			
+			nav{width: 100%; height: 100%; text-align: center;}
+			
+			.t-c a{ margin: auto 12px auto 12px; font-size: 10px; color: white;}
+			.serch{font-family: "Lucida Console";font-size: 10px;text-align: center;color: white;width: 100%;height:100px;margin: 50px 0 0 0;line-height:2 ;}
+	          .nav_c{margin-top: 10px;}
+	          	.nav_c a{ font-size: 10px;}
+	          .nav_r{margin-top: 20px;}
+	          .nav_r span{ color:rgb(80,120,144); margin: 0px 10px 0px 10px; }
+	          .mh3{ height: 42px; width: 210px; color: white; background:rgb(0,102,0); margin-left: 40px;}
+			.h_m{border-top: 2px solid red ;}
+				.menu{color: white;margin: 0px 0 0px 40px; background: rgba(0, 102, 0, 0.5);}
+		         .l{height: 420px;width: 210px;background-color:rgba(0, 120, 0, 0.8);}
+		         .center-menu-text1{color:red ;font-size: 15px;font-weight: bold;margin: 10px 0 5px 15px;}
+		        .center-menu-text2{ font-size: 13px;font-weight: lighter;margin:5px 0 2px 15px;}
+		        .line{border-top:1px solid #eeeeee;margin: 14px auto;width: 170px;}
+		        .outer{ background: url("../img/banner-bg1.jpg")  round; }
+		        .center{background:url("../img/banner-1.png") round;}
+		     .banner_r{ margin-right: 40px; }
+		     .margin_20{margin-left: 20px;}
+		     .margin_40{margin-left: 40px;}
+		     	.margin_20 li{ width: 100%; padding-left: 100px; margin: auto 15px auto 15px; float: left; width: 30%;}
+		     	.margin_20 li a{ display: block; height: 100%;}
+		     	.disNav ul li{ list-style: none; margin-top: 20px;}
+		     	.float_r ul li{list-style: none; margin: 3px 0px 3px 0px; border: 1px dashed rgb(0,102,0);}
+		     	.float_r ul li img{ width: 200px;}
+		     .icon{ margin: 30px 0px auto 40px; }
+		     	.icon_b{ margin-left: 40px;}
+		     	.icon_b li{ list-style: none; float: left; height: 200px; width: 19%; color: red; line-height: 100px; text-align: center; margin:2px; height: ; padding: 2px; border: 1px solid rgb(60,240,192);}
+		     	.icon_b li p{ margin-top: 70px; }
+		     	.s_r li{ list-style: none; width: 25%; height: 300px; padding: 2px; background:#ccff99; float: left; text-align: center;  color: black;}
+		     	.s_out{ margin-left: 40px;}
+		     	.s_out li img{ width: 100%;}
+		     	.s_out li{ 	list-style: none;}
+		     		.s_l{ width: 20%; margin: 3px;}
+		     		.s_r{ width: 75%; margin: 3px;}
+		     		.s_l{height:600px;background:#ccff99; float: left; text-align: center;  color: black;}
+		     		.s_l a{ list-style: none; display: block; height: 70px; width: 150px;
+		     		 border: 1px solid rgba(0,0,0,0.9); margin: 65px 30px auto 40px;
+		     		  color: black; font-size: 20px; line-height: 3.3em;}
+		     		.s_r img{ height: 250px;}
+		     		.s_out{width: 100%;}
+		     		
+		     	.foot{background-color:#99CC99;color: white; text-align: center;}
+		        .foot ul {margin: 1% 8% 2px 7%; }
+		        .foot ul li{list-style: none;margin: 7px 0px 0px 0px; }
+		        .last{text-align: center; font-size: 12px;margin: 20px 0px 50px 0px;}
+				.add_margin{ margin-top: 15px;}
